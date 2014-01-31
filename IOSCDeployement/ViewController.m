@@ -13,7 +13,7 @@
 
 @end
 
-@implementd ation ViewController
+@implementation ViewController
 
 - (void)viewDidLoad
 {
@@ -25,6 +25,6 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
-}
+}   
 
 @end
